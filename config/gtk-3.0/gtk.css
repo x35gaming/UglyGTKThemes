@@ -1,0 +1,38 @@
+/*
+You can type here any CSS rule recognized by GTK+.
+You can temporarily disable this custom CSS by clicking on the “Pause” button above.
+
+Changes are applied instantly and globally, for the whole application.
+*/
+
+.xfce4-panel button{
+background-image:url("/home/pi/.config/gtk-3.0/assets/hotbar_single.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    margin:-1px
+}
+
+.xfce4-panel button:hover{
+background-image:url("/home/pi/.config/gtk-3.0/assets/hotbar_selection.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    margin:-1px
+}
+
+.xfce4-panel button:checked{
+background-image:url("/home/pi/.config/gtk-3.0/assets/hotbar_selection.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    image-rendering: pixelated;
+    margin:-1px
+}
+
+.xfce4-panel image{
+-gtk-icon-transform: scale(0.6);
+}
+
+.xfce4-panel{
+background:transparent;
+}
