@@ -1,0 +1,13 @@
+
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=DarkWhite
+Comment= Dark theme
+Encoding=UTF-8
+
+Name[en_UK]=DarkWhite
+
+[X-GNOME-Metatheme]
+GtkTheme=DarkWhite
+MetacityTheme=DarkWhite
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=DarkGloss
+Comment=VERY JANK.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=DarkGloss
+GtkTheme=DarkGloss
+IconTheme=DarkGloss
+MetacityTheme=DarkGloss
